@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#1e293b" />
+  <!-- Hoja del parte -->
+  <path d="M116 96h168l68 68v228a24 24 0 0 1-24 24H116a24 24 0 0 1-24-24V120a24 24 0 0 1 24-24z" fill="#ffffff" />
+  <path d="M284 96v68h68" fill="#cbd5e1" />
+  <rect x="132" y="196" width="144" height="18" rx="9" fill="#0284c7" />
+  <rect x="132" y="236" width="110" height="18" rx="9" fill="#94a3b8" />
+  <rect x="132" y="276" width="128" height="18" rx="9" fill="#94a3b8" />
+  <!-- Distintivo Bus / Liquidación abajo derecha -->
+  <circle cx="352" cy="348" r="88" fill="#16a34a" stroke="#1e293b" stroke-width="14" />
+  <!-- Silueta frontal bus -->
+  <rect x="312" y="304" width="80" height="74" rx="14" fill="#ffffff" />
+  <rect x="322" y="316" width="60" height="28" rx="6" fill="#1e293b" />
+  <circle cx="328" cy="360" r="6" fill="#1e293b" />
+  <circle cx="376" cy="360" r="6" fill="#1e293b" />
+  <rect x="324" y="378" width="14" height="10" rx="3" fill="#ffffff" />
+  <rect x="366" y="378" width="14" height="10" rx="3" fill="#ffffff" />
+</svg>
